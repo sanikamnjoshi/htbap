@@ -6,8 +6,11 @@ Modern software systems tend to depend on a large number of components that may 
 - Does the component restrict you to particular hardware or software systems?
 - What will you do if the component fails completely?
 
-It is always best to encapsulate the component in some way so that it is isolated and so that it can be swapped out. If the component proves to be completely unworkable, you may be able to get a different one, but you may have to write your own. Encapsulation is not portability, but it makes porting easier, which is almost as good.
+==It is always best to encapsulate the component in some way so that it is isolated and so that it can be swapped out. 🐼== If the component proves to be completely unworkable, you may be able to get a different one, but you may have to write your own. Encapsulation is not portability, but it makes porting easier, which is almost as good.
 
-Having the source code for a component decreases the risk by a factor of four. With source code, you can evaluate it easier, debug it easier, find workarounds easier, and make fixes easier. If you make fixes, you should give them to the owner of the component and get the fixes incorporated into an official release; otherwise you will uncomfortably have to maintain an unofficial version.
+> [!question] 🐼 encapsulating external components
+> sounds good in theory, but can prove difficult in practice, especially if the component is something as pervasive as a commonly used external library (e.g., pandas).
+
+Having the source code for a component decreases the risk by a factor of four. With source code, you can evaluate it easier, debug it easier, find workarounds easier, and make fixes easier. ==If you make fixes, you should give them to the owner of the component and get the fixes incorporated into an official release; otherwise you will uncomfortably have to maintain an unofficial version.==
 
 Next [How to Decide if Software is Too Immature](03-How-to-Decide-if-Software-is-Too-Immature.md)

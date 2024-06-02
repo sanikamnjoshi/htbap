@@ -11,7 +11,7 @@
 	- [How to Do Integration Testing](Personal-Skills/08-How-to-Do-Integration-Testing.md)
 	- [Communication Languages](Personal-Skills/09-Communication-Languages.md)
 	- [Heavy Tools](Personal-Skills/10-Heavy-Tools.md)
-	- [How to analyze data](Personal-Skills/11-How-to-analyze-data.md)
+	- [How to analyze data](11-How-to-Analyze-Data.md)
 - Team Skills
 	- [How to Manage Development Time](Team-Skills/01-How-to-Manage-Development-Time.md)
 	- [How to Manage Third-Party Software Risks](Team-Skills/02-How-to-Manage-Third-Party-Software-Risks.md)

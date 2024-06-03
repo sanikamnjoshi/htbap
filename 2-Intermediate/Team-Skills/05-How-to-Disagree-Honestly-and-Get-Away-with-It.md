@@ -8,7 +8,7 @@ Usually, this is not a problem. In some stressful circumstances and with some pe
 
 ==Whether the decision is reversed or not, you must remember that you will never be able to say ‘I told you so!’ since the alternate decision was fully explored. ⛴️==
 
-> [!info] ⛴️ the alternate decision to the one that ended up being made
+> [!note] ⛴️ the alternate decision to the one that ended up being made
 > ... it was fully discussed, at least, if not fully explored.
 
 Next [Judgment - How to Tradeoff Quality Against Development Time](../Judgment/01-How-to-Tradeoff-Quality-Against-Development-Time.md)

@@ -4,7 +4,7 @@ It is a wonderful and surprising fact that programmers are highly motivated by t
 
 ==This has practical and important consequences. If programmers are asked to do something that is not beautiful, useful or nifty, they will have low morale. There's a lot of money to be made doing ugly, stupid, and boring stuff; but in the end, fun will make the most money for the company. 🍭==
 
-> [!info] 🍭 tja
+> [!note] 🍭 tja
 > rather topical, what with the team possibly splitting up soon.
 
 Obviously, there are entire industries organized around motivational techniques, some of which apply here. The things that are specific to programming that I can identify are:

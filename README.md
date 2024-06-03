@@ -15,7 +15,7 @@ Computer programming is taught in courses. The excellent books: The Pragmatic Pr
 
 In this essay the term boss is used to refer to whomever gives you projects to do. I use the words business, company, and tribe, synonymously except that business connotes moneymaking, company connotes the modern workplace and tribe is generally the people you share loyalty with.
 
-> [!note] #vocabulary
+> [!note] business vs. company vs. tribe
 > - business → moneymaking
 > - company → the modern workplace
 > - tribe → people you share loyalty with
